@@ -22,7 +22,7 @@ h1 {
     width: 200px;
     height: 300px;
     overflow: hidden;
-    
+    margin-bottom: 5px;
 }
 
 .img-container img {
